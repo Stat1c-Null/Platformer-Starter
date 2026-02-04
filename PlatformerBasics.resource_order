@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"o_wall","order":1,"path":"objects/o_wall/o_wall.yy",},
+    {"name":"s_wall","order":1,"path":"sprites/s_wall/s_wall.yy",},
+    {"name":"o_bullet","order":3,"path":"objects/o_bullet/o_bullet.yy",},
+    {"name":"s_run","order":2,"path":"sprites/s_run/s_run.yy",},
+    {"name":"s_gun","order":5,"path":"sprites/s_gun/s_gun.yy",},
+    {"name":"s_dudeidle","order":3,"path":"sprites/s_dudeidle/s_dudeidle.yy",},
+    {"name":"Sprite4","order":15,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"s_bullet","order":6,"path":"sprites/s_bullet/s_bullet.yy",},
+    {"name":"s_jump","order":4,"path":"sprites/s_jump/s_jump.yy",},
+    {"name":"o_gun","order":2,"path":"objects/o_gun/o_gun.yy",},
+  ],
+}
