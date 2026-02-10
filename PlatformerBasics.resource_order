@@ -7,9 +7,12 @@
     {"name":"s_run","order":2,"path":"sprites/s_run/s_run.yy",},
     {"name":"s_gun","order":5,"path":"sprites/s_gun/s_gun.yy",},
     {"name":"s_dudeidle","order":3,"path":"sprites/s_dudeidle/s_dudeidle.yy",},
+    {"name":"o_lava","order":4,"path":"objects/o_lava/o_lava.yy",},
     {"name":"Sprite4","order":15,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"s_lava","order":7,"path":"sprites/s_lava/s_lava.yy",},
     {"name":"s_bullet","order":6,"path":"sprites/s_bullet/s_bullet.yy",},
     {"name":"s_jump","order":4,"path":"sprites/s_jump/s_jump.yy",},
+    {"name":"o_camera","order":5,"path":"objects/o_camera/o_camera.yy",},
     {"name":"o_gun","order":2,"path":"objects/o_gun/o_gun.yy",},
   ],
 }
