@@ -35,14 +35,18 @@
   "resources": [
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},},
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},},
+    {"id":{"name":"s_door","path":"sprites/s_door/s_door.yy",},},
+    {"id":{"name":"o_spike","path":"objects/o_spike/o_spike.yy",},},
     {"id":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},},
     {"id":{"name":"s_run","path":"sprites/s_run/s_run.yy",},},
     {"id":{"name":"s_gun","path":"sprites/s_gun/s_gun.yy",},},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
     {"id":{"name":"s_dudeidle","path":"sprites/s_dudeidle/s_dudeidle.yy",},},
     {"id":{"name":"o_lava","path":"objects/o_lava/o_lava.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"s_spike","path":"sprites/s_spike/s_spike.yy",},},
+    {"id":{"name":"o_door","path":"objects/o_door/o_door.yy",},},
     {"id":{"name":"s_lava","path":"sprites/s_lava/s_lava.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},},
     {"id":{"name":"s_jump","path":"sprites/s_jump/s_jump.yy",},},
     {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},},
@@ -52,6 +56,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

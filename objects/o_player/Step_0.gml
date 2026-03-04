@@ -64,4 +64,12 @@ if(not place_meeting(x, y+1, o_wall))
 	}
 }
 
+//Flip player sprite
 if(hsp != 0) image_xscale = sign(hsp)
+
+//Restart the game if player is falling out of the level
+if(y - 1000 > room_height) {
+	game_restart()
+}
+
+

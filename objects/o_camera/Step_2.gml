@@ -23,8 +23,8 @@ if (mouse_check_button(mb_middle)) {
 	var targetY = o_player.y - camH/2
 	
 	//Clamp the target to room bounds
-	targetX = clamp(targetX, 0, room_width - camW)
-	targetY = clamp(targetY, 0, room_height - camH)
+	//targetX = clamp(targetX, 0, room_width - camW)
+	//targetY = clamp(targetY, 0, room_height - camH)
 	
 	//Smoothly move the camera to the target position
 	camX = lerp(camX, targetX, CAM_SMOOTH)
