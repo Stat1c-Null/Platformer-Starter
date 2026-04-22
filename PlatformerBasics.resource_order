@@ -12,6 +12,8 @@
     {"name":"o_lava","order":4,"path":"objects/o_lava/o_lava.yy",},
     {"name":"s_spike","order":9,"path":"sprites/s_spike/s_spike.yy",},
     {"name":"o_door","order":6,"path":"objects/o_door/o_door.yy",},
+    {"name":"o_enemy","order":8,"path":"objects/o_enemy/o_enemy.yy",},
+    {"name":"s_enemy","order":10,"path":"sprites/s_enemy/s_enemy.yy",},
     {"name":"s_lava","order":7,"path":"sprites/s_lava/s_lava.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"s_bullet","order":6,"path":"sprites/s_bullet/s_bullet.yy",},
